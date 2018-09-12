@@ -1,10 +1,6 @@
 Hello, Welcome to Ananth's Server!! <br>
 
 
-This is cool!!
+This is cool!! <br>
 
 New Update released!!
-First Test
-Test 2
-Test3
-Update 4
