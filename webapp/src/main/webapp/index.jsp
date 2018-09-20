@@ -6,4 +6,4 @@ This is cool!! <br>
 New Update released!! <br>
 
 
-This is today!!
+This is now!
